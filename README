@@ -1,0 +1,7 @@
+put Camera_corruptions.py and LiDAR_corruptions.py in mmdet3d/datasets/transforms
+put utils folder from robustness toolkit in mmdet3d/datasets/transforms
+
+install packages 
+pip install spconv-cu120
+pip install imgaug
+pip install imagecorruptions
